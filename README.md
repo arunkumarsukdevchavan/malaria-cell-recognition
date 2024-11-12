@@ -114,21 +114,7 @@ print("ARUN KUMAR SUKDEV CHAVAN 212222230013")
 print(classification_report(test_image_gen.classes,predictions))
 confusion_matrix(test_image_gen.classes,predictions)
 ```
-### Output:
 
-##### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/user-attachments/assets/fcabd1a3-955b-4b6d-837d-d3c22d60698c)
-##### Classification Report
-![image](https://github.com/user-attachments/assets/d2c6cc3a-dc96-47d3-a55e-91fd45fd8944)
-##### Confusion Matrix
-![image](https://github.com/user-attachments/assets/bd384fc7-a794-4506-8b16-60cf0765cc54)
-##### New Sample Data Prediction
-![image](https://github.com/user-attachments/assets/68374572-2654-44ce-819a-812a7e562174)
-### Result:
-Thus a deep neural network for Malaria infected cell recognition and to analyze the performance is created using tensorflow.
-
-**Developed By: ARUN KUMAR SUKDEV CHAVAN 212222230013**
-```
 ### Output:
 
 ##### Training Loss, Validation Loss Vs Iteration Plot
