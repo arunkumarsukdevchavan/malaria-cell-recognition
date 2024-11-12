@@ -1,7 +1,7 @@
 # EX-04 Deep Neural Network for Malaria Infected Cell Recognition
 
 ### Aim:
-To develop a deep neural network for Malaria infected cell recognition and to analyze the performance.  **DATE: **
+To develop a deep neural network for Malaria infected cell recognition and to analyze the performance.  
 ### Problem Statement and Dataset:
 The task is to automatically classify red blood cell images into two categories: parasitized (malaria-infected) and uninfected (healthy). Malaria-infected cells contain the Plasmodium parasite, while uninfected cells are healthy. The goal is to build a convolutional neural network (CNN) to accurately distinguish between these classes.
 Manual inspection of blood smears is time-consuming and prone to errors. By using deep learning, we can automate the process, speeding up diagnosis, reducing healthcare professionals' workload, and improving detection accuracy.
